@@ -1,0 +1,10 @@
+## Interface: 90002
+## Title: ChatLinkIcons v2.4
+## Version: 2.4
+## Author: SDPhantom
+## OptionalDeps: Pawn
+## SavedVariables: ChatLinkIcons_Options
+## Notes: Displays icons for links in chat.
+
+Options.lua
+Core.lua
